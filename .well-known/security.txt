@@ -1,0 +1,3 @@
+Contact: mailto:soporte@guanajuato.website
+Expires: 2026-12-31
+Preferred-Languages: es

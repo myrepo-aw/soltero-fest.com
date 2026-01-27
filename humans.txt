@@ -1,0 +1,13 @@
+/* TEAM */
+Proyecto: Soltero Fest
+Rol: Organización y experiencia social
+Location: Guanajuato, México
+Website: https://soltero-fest.org/
+
+/* THANKS */
+Guanajuato
+Participantes del evento
+
+/* SITE */
+Language: Spanish
+Standards: HTML5, CSS3

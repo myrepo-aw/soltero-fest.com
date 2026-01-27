@@ -1,0 +1,62 @@
+{
+    "idPlantilla": 1,
+    "idPromocion": "string",
+    "imagenUrl": "https://api-dev.the-api-dev.the-loyalco.com/assets/images/secciones/home/section3-img1.png",
+    "titulo": "Sé parte de loyalco",
+    "parrafo": "y obtén increíbles beneficios",
+    "beneficiosIncluidos": [
+        "Acumulación de puntos",
+        "Acumulación de puntos"
+    ],
+    "beneficiosExcluidos": [
+        "Bono por cumpleaños",
+        "Bono por cumpleaños"
+    ],
+    "boton": true,
+    "textoBoton": "Activa tu cuenta aquí.",
+    "urlBoton": "https://api-dev.the-api-dev.the-loyalco.com/",
+    "secciones": [
+        {
+            "companias": [
+                "Telcel",
+                "Telcel"
+            ],
+            "categorias": [
+                "Comida",
+                "Comida"
+            ],
+            "imagenUrl": "https://api-dev.the-api-dev.the-loyalco.com/assets/images/secciones/home/section3-img1.png",
+            "titulo": "Tienda Socio",
+            "parrafo": "15% de descuento en tienda en física",
+            "terminosCondiciones": true,
+            "gemasPrecio": 100,
+            "gemasDescuento": 40,
+            "codigoSoloUso": true,
+            "dudasComentarios": true,
+            "boton": true,
+            "textoBoton": "Activa tu cuenta aquí.",
+            "urlBoton": "https://api-dev.the-api-dev.the-loyalco.com/"
+        },
+        {
+            "companias": [
+                "Telcel",
+                "Telcel"
+            ],
+            "categorias": [
+                "Comida",
+                "Comida"
+            ],
+            "imagenUrl": "https://api-dev.the-api-dev.the-loyalco.com/assets/images/secciones/home/section3-img1.png",
+            "titulo": "Tienda Socio",
+            "parrafo": "15% de descuento en tienda en física",
+            "terminosCondiciones": true,
+            "gemasPrecio": 100,
+            "gemasDescuento": 40,
+            "codigoSoloUso": true,
+            "dudasComentarios": true,
+            "boton": true,
+            "textoBoton": "Activa tu cuenta aquí.",
+            "urlBoton": "https://api-dev.the-api-dev.the-loyalco.com/"
+        }
+    ]
+}

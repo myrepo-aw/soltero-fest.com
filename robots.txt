@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Evita indexar archivos internos o innecesarios
+Disallow: /assets/
+Disallow: /private/
+Disallow: /tmp/
+
+# Permite recursos importantes
+Allow: /src/
+Allow: /styles.css
+
+# Sitemap
+Sitemap: https://soltero-fest.com/sitemap.xml
