@@ -11,4 +11,4 @@ Allow: /src/
 Allow: /styles.css
 
 # Sitemap
-Sitemap: https://soltero-fest.com/sitemap.xml
+Sitemap: https://www.soltero-fest.com/sitemap.xml
