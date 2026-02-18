@@ -73,8 +73,8 @@ body {
 
 .hero-badge{
   color: var(--accent);
-  margin-top: 30px;
   display: inline-block;
+  font-weight: 700;
 }
 
 /* SECTIONS */
@@ -103,6 +103,12 @@ body {
   }
 }
 
+@media (max-width: 600px) {
+  .section {
+    padding: 30px 24px;
+  }
+}
+
 .intro {
   grid-template-columns: 1.2fr 0.8fr;
 }
@@ -112,10 +118,17 @@ body {
   text-align: center;
 
   .cards {
-    margin-top: 50px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 32px;
+  }
+}
+
+@media (min-width: 600px) {
+  .experience {
+    .cards {
+      margin-top: 50px;
+    }
   }
 }
 
@@ -196,4 +209,14 @@ body {
   .image-placeholder {
     height: 280px;
   }
+}
+
+.official-link{
+  margin-top: 10px;
+}
+
+.official-link .material-icons {
+  font-size: 18px;
+  position: relative;
+  top: 4px; 
 }
